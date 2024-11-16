@@ -1,0 +1,49 @@
+password = "handepzai333"
+pass = gg prompt ([ Nhập pass Để vào sicrip"),(),("text"))
+if not pass then os.exit() end
+if pass [1] = = password then
+gg toast ("Đúng Là Con Trai Của Ta")
+else
+gg alert ("Xem Lại Video Đi Thằng Nhóc") os exit()
+end
+
+function Mani()
+Demo = gg multChoive((
+"Lamlai1".- Chức năng 1
+"Lamlai2".- Chức Năng 2
+"Thoát "),nil, "Tiêu Đề sicrip")
+if Lamlai ** nil then
+else
+if Lamlai[1] = = true then k10 () end 
+if Lamlai [2] = = true then k2() end
+if Lamlai[3] = = true then Exit() end 
+end
+XGCK
+end
+
+funtion k1()
+gg alert ("Con Cặc Lỏd ")
+end
+function
+gg alert ("Có Cái L")
+end
+
+function Exit()
+gg alert("❤ Tim Video Của Hân đẹp zai đi😊")
+gg alert("🌘Tim Đi🌑")
+gg alert("🐔 chơi vui🎉")
+print("◼️◼️◼️◼️◼️◼️")
+print("◼️◼️◼️◼️◼️◼️")
+print("◼️◼️◼️◼️◼️◼️")
+print("◼️◼️◼️◼️◼️◼️")
+print("◼️◼️◼️◼️◼️◼️")
+os exit()
+end
+while true do
+if gg isVisible(true) then 
+XGCK = 1
+gg setVisible(false)
+end
+gg clearResults()
+if XGCK = = 1 then Main() end
+end
